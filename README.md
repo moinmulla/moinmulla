@@ -1,9 +1,10 @@
+![banner](https://user-images.githubusercontent.com/65023937/153058189-c7e42bd7-d139-49aa-99f5-d2ce8f2ddc1e.png)
 <h1 align="center">Hi 👋, I'm Moinuddin Mulla</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=moinmulla&label=Profile%20views&color=0e75b6&style=flat" alt="moinmulla" /> </p>
+- 🏫 I’m currently styding at **G H Patel College of Engineering and Technology**
 
-- 🔭 I’m currently working on **MERN project**
+- 📖 Pursuing **Computer Engineering**
 
 - 🌱 I’m currently learning **React**
 
@@ -28,5 +29,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=moinmulla&show_icons=true&locale=en&layout=compact" alt="moinmulla" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=moinmulla&show_icons=true&locale=en" alt="moinmulla" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=moinmulla&" alt="moinmulla" /></p>
