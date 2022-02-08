@@ -1,4 +1,4 @@
-![banner](https://user-images.githubusercontent.com/65023937/153058189-c7e42bd7-d139-49aa-99f5-d2ce8f2ddc1e.png)
+![banner (2)](https://user-images.githubusercontent.com/65023937/153062359-864c508d-9ab2-499d-b9ed-3bf90ef3eca1.png)
 <h1 align="center">Hi 👋, I'm Moinuddin Mulla</h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
 
