@@ -1,6 +1,8 @@
-![banner (2)](https://user-images.githubusercontent.com/65023937/153062359-864c508d-9ab2-499d-b9ed-3bf90ef3eca1.png)
-<h1 align="center">Hi 👋, I'm Moinuddin Mulla</h1>
+![PicsArt_02-09-03 07 11](https://user-images.githubusercontent.com/65023937/153138496-764408f5-bf5a-4421-bf08-5a9fcc73efd5.png)
+<h1 align="center">Hi <img width=40 src="https://user-images.githubusercontent.com/65023937/153139000-58885a91-5afa-4ae3-a0e7-0f13069d90c4.gif"/></h1>
 <h3 align="center">A passionate full stack web developer from India</h3>
+
+<img width=400 align="right" src="https://user-images.githubusercontent.com/65023937/153139803-9c5d5a1d-f0c3-4fa0-a3b1-f48d0268c091.gif"/>
 
 - 🏫 I’m currently styding at **G H Patel College of Engineering and Technology**
 
