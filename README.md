@@ -3,7 +3,7 @@
 <h3 align="center">A passionate full stack web developer from India</h3>
 
 <img width=400 align="right" src="https://user-images.githubusercontent.com/65023937/153139803-9c5d5a1d-f0c3-4fa0-a3b1-f48d0268c091.gif"/>
-- 🔭I'm currently working on [G H Patel College of Engineering and Technology](https://github.com/moinmulla/Tatvasoft)
+- 🔬 I’m currently styding at [G H Patel College of Engineering and Technology](https://github.com/moinmulla/Tatvasoft)
 
 - 🏫 I’m currently styding at **G H Patel College of Engineering and Technology**
 
