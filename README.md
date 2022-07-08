@@ -4,7 +4,7 @@
 
 <img width=400 align="right" src="https://user-images.githubusercontent.com/65023937/153139803-9c5d5a1d-f0c3-4fa0-a3b1-f48d0268c091.gif"/>
 
-- 🔭 I have worked as an intern at [Tatvasoft](https://github.com/moinmulla/Tatvasoft)
+- 🔭 I have created a project as an intern at [Tatvasoft](https://github.com/moinmulla/Tatvasoft-Intern-Project)
 
 - 🏫 I’m currently styding at **G H Patel College of Engineering and Technology**
 
