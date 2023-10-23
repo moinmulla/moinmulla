@@ -6,11 +6,11 @@
 
 - 🔭 I have created a project as an intern at [Tatvasoft](https://github.com/moinmulla/Tatvasoft-Intern-Project)
 
-- 🏫 I’m currently styding at **G H Patel College of Engineering and Technology**
+- 🏫 I’m currently styding at **University of Leicester**
 
-- 📖 Pursuing **Computer Engineering**
+- 📖 Pursuing **MSc Advanced Computer Science**
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently learning **React,Java**
 
 - 💬 Ask me about **MERN stack and related technologies**
 
