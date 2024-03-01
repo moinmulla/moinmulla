@@ -16,7 +16,7 @@
 
 - ⚡ Fun fact: I use tabs over spaces 
 
-- 📫 How to reach me **moinmulla100@gmail.com**
+- 📫 How to reach me **moinuddinmulla100@gmail.com**
 
 
 <h3 align="left">Connect with me:</h3>
