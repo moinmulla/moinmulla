@@ -1,6 +1,6 @@
 ![PicsArt_02-09-03 07 11](https://user-images.githubusercontent.com/65023937/153138496-764408f5-bf5a-4421-bf08-5a9fcc73efd5.png)
 <p align="center"><img align="center"height=175 object-fit:cover src="https://rishavanand.github.io/static/images/greetings.gif"/></p>
-<h3 align="center">A passionate full stack web developer and programmer from India</h3>
+<h3 align="center">A passionate full stack web developer and programmer currently living in the United Kingdom</h3>
 
 <img width=400 align="right" src="https://user-images.githubusercontent.com/65023937/153139803-9c5d5a1d-f0c3-4fa0-a3b1-f48d0268c091.gif"/>
 
